@@ -1,11 +1,11 @@
 from pyrogram import filters
 from pyrogram.types import Message
 
-from SONALI import app
-from SONALI.core.call import RAUSHAN
-from SONALI.utils.database import is_music_playing, music_off
-from SONALI.utils.decorators import AdminRightsCheck
-from SONALI.utils.inline import close_markup
+from DARK import app
+from DARK.core.call import RAUSHAN
+from DARK.utils.database import is_music_playing, music_off
+from DARK.utils.decorators import AdminRightsCheck
+from DARK.utils.inline import close_markup
 from config import BANNED_USERS
 
 
