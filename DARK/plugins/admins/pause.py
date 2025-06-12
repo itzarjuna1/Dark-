@@ -2,7 +2,7 @@ from pyrogram import filters
 from pyrogram.types import Message
 
 from DARK import app
-from DARK.core.call import RAUSHAN
+from DARK.core.call import KUZE
 from DARK.utils.database import is_music_playing, music_off
 from DARK.utils.decorators import AdminRightsCheck
 from DARK.utils.inline import close_markup
