@@ -4,7 +4,7 @@ from pyrogram import filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 from DARK import YouTube, app
-from DARK.core.call import RAUSHAN
+from DARK.core.call import KUZE
 from DARK.misc import SUDOERS, db
 from DARK.utils.database import (
     get_active_chats,
