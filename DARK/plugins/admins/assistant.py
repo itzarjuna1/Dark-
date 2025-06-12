@@ -6,7 +6,7 @@ import asyncio
 from pyrogram import filters
 from pyrogram.enums import ChatMemberStatus
 from DARK import app
-from DARK.utils.RAUSHAN_ban import admin_filter
+from DARK.utils.KUZE_ban import admin_filter
 from DARK.utils.database import get_assistant
 
 links = {}
