@@ -14,7 +14,7 @@ from pyrogram import filters
 load_dotenv()
 
 from DARK import app
-from DARK.core.call import RAUSHAN
+from DARK.core.call import KUZE
 from DARK.misc import db
 from DARK.utils.database import get_assistant, get_authuser_names, get_cmode
 from DARK.utils.decorators import ActualAdminCB, AdminActual, language
