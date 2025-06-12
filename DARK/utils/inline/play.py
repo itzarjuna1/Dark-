@@ -76,7 +76,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
       [
             InlineKeyboardButton(
-                text=" 𝗝ᴏɪɴ 🤌 ", url="https://t.me/dark_x_knight_musiczz_support",
+                text=" 𝗝ᴏɪɴ 🤌 ", url="https://t.me/dark_knight_support",
             ),
             InlineKeyboardButton(
                 text="🌸 𝗦ᴜᴘᴘᴏʀᴛ 🌸", url="https://t.me/dark_x_knight_musiczz_support",
