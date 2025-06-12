@@ -1,6 +1,5 @@
 aiofiles
 aiohttp
-#asyncio==3.4.3
 asyncio
 beautifulsoup4
 dnspython
@@ -15,7 +14,7 @@ hachoir
 motor==3.3.2
 pillow==9.5.0
 psutil
-py-tgcalls==1.2.5
+git+https://github.com/pytgcalls/pytgcalls
 pykeyboard
 pymongo==4.6.3
 python-dotenv
@@ -26,7 +25,6 @@ SafoneAPI==1.0.65
 tgcrypto
 gpytranslate
 MukeshAPI
-search_engine_parser
 googlesearch-python
 youtube-search-python
 spotipy
