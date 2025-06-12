@@ -16,7 +16,7 @@ future==0.18.3
 search_engine_parser
 speedtest
 # py-tgcalls replaced with GitHub install
-git+https://github.com/pytgcalls/pytgcalls.git@v1.2.3
+py-tgcalls==1.2.9
 MukeshAPI
 # ntgcalls removed to avoid conflict
 gitpython
