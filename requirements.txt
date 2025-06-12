@@ -15,7 +15,7 @@ hachoir
 motor==3.3.2
 pillow==9.5.0
 psutil
-py-tgcalls==0.9.7
+py-tgcalls==1.2.5
 pykeyboard
 pymongo==4.6.3
 python-dotenv
