@@ -8,7 +8,7 @@ future==0.18.3
 search_engine_parser
 telethon==1.33.1
 gitpython
-httpx==0.25.0
+httpx==0.13.3
 heroku3
 hachoir
 motor==3.3.2
@@ -23,10 +23,10 @@ requests
 qrcode
 SafoneAPI==1.0.65
 tgcrypto
-gpytranslate
-# MukeshAPI  ← [COMMENTED: Not found on PyPI/GitHub. Replace if needed]
+gpytranslate==1.4.0
+# MukeshAPI  ← [Commented]
 googlesearch-python
-youtube-search-python
+youtube-search-python==1.6.6
 spotipy
 telegraph
 speedtest-cli
@@ -39,4 +39,3 @@ bing_image_downloader
 git+https://github.com/alexmercerind/youtube-search-python@main
 git+https://github.com/joetats/youtube_search@master
 bing-image-urls
-# git+https://github.com/TEAMPURVI/PurviAPI ← REMOVED: GitHub auth failed
