@@ -2,8 +2,8 @@ import time
 
 import psutil
 
-from SONALI.misc import _boot_
-from SONALI.utils.formatters import get_readable_time
+from DARK.misc import _boot_
+from DARK.utils.formatters import get_readable_time
 
 
 async def bot_sys_stats():
