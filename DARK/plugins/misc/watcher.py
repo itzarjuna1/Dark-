@@ -2,7 +2,7 @@ from pyrogram import filters
 from pyrogram.types import Message
 
 from DARK import app
-from DARK.core.call import RAUSHAN
+from DARK.core.call import KUZE
 
 welcome = 20
 close = 30
