@@ -1,7 +1,7 @@
 from pyrogram import  filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
-from DARK.utils.purvi_font import Fonts
+from DARK.utils.dark_font import Fonts
 from DARK import app
 
 @app.on_message(filters.command(["font", "fonts"]))
