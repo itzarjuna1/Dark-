@@ -4,10 +4,10 @@ from pyrogram import Client
 from pyrogram.types import Message
 from pyrogram.enums import ChatMemberStatus, ChatType
 
-from SONALI import app
+from DARK import app
 
 from config import OWNER_ID, BOT_USERNAME
-from SONALI.misc import SUDOERS
+from DARK.misc import SUDOERS
 
 COMMANDERS = [ChatMemberStatus.ADMINISTRATOR, ChatMemberStatus.OWNER]
 
