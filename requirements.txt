@@ -24,7 +24,6 @@ qrcode
 SafoneAPI==1.0.65
 tgcrypto
 gpytranslate==1.4.0
-# MukeshAPI  ← [Commented]
 googlesearch-python
 youtube-search-python==1.6.6
 spotipy
@@ -39,3 +38,4 @@ bing_image_downloader
 git+https://github.com/alexmercerind/youtube-search-python@main
 git+https://github.com/joetats/youtube_search@master
 bing-image-urls
+git+https://github.com/pytgcalls/pytgcalls.git@master
