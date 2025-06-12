@@ -3,9 +3,9 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from dotenv import load_dotenv
 
 load_dotenv()
-from SONALI import app
-from SONALI.misc import SUDOERS, db
-from SONALI.utils.database import (
+from DARK import app
+from DARK.misc import SUDOERS, db
+from DARK.utils.database import (
     get_authuser_names,
     get_cmode,
     get_lang,
@@ -48,7 +48,7 @@ def AdminRightsCheck(mystic):
                     [
                         InlineKeyboardButton(
                             text="ʜᴏᴡ ᴛᴏ ғɪx ?",
-                            callback_data="RAUSHANmousAdmin",
+                            callback_data="KUZEmousAdmin",
                         ),
                     ]
                 ]
@@ -144,7 +144,7 @@ def AdminActual(mystic):
                     [
                         InlineKeyboardButton(
                             text="ʜᴏᴡ ᴛᴏ ғɪx ?",
-                            callback_data="RAUSHANmousAdmin",
+                            callback_data="KUZEmousAdmin",
                         ),
                     ]
                 ]
