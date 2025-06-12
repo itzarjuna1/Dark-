@@ -5,7 +5,7 @@ from pyrogram.enums import ChatType
 
 import config
 from DARK import app
-from DARK.core.call import RAUSHAN, autoend
+from DARK.core.call import KUZE, autoend
 from DARK.utils.database import get_client, is_active_chat, is_autoend
 
 
