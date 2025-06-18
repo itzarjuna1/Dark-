@@ -10,7 +10,7 @@ heroku3
 motor
 pillow==9.5.0
 psutil
-wget
+wget 
 qrcode
 future==0.18.3
 search_engine_parser
@@ -38,4 +38,4 @@ unidecode
 https://github.com/KurimuzonAkuma/pyrogram/archive/v2.1.23.zip
 git+https://github.com/yt-dlp/yt-dlp.git
 bing_image_downloader
-gpytranslate
+gpytranslate 
